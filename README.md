@@ -1,6 +1,11 @@
 Linetest for 2d animation
 ====================
 
+Dependencies
+-------------
+
+-This script requires "opencv" for python
+
 Using
 ----
 
